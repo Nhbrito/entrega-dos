@@ -3,10 +3,10 @@ p { text-align: center;
     margin-top: 10%;
     margin-bottom: 1rem;
     padding: 0%;
-    color:antiquewhite;
+    color:rgb(230, 91, 11);
 font-style: italic ;}
 body#bdy {
-     background-color: #222;
+     background-color: #080202;
     ;}
 
 .sec { text-align: center;
@@ -50,10 +50,10 @@ div#divi{ display: flex;
     text-align: center;
 }
 
-    h1#h1{text-align: center; color: darkred; font-style:inherit; }
+    h1#h1{text-align: center; color: rgb(179, 11, 11); font-style:inherit; }
     section#bu{display: flex;
         padding-top: 15%;
         text-align: center;
     color: darkred;}
-    body{background-color: black;}
+    body{background-color: rgb(179, 12, 12);}
     
